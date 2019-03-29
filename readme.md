@@ -2,6 +2,7 @@
 
 **How To Work** 
 - git Clone This Repo 
+- Copy .env.example to .env
 - create local database and put your db config in ``.env``
 - Run ``composer update``
 - dump data.sql in your database to get dummy data
