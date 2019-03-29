@@ -15,7 +15,7 @@ app will run in <http://127.0.0.1:8000>
 
 you Should to have internet connection because i used bootstrap files from CDN  
 
-**Check list ** 
+**Check list** 
 - [ * ] Frontend Surface
 - [ * ] Frontend Homepage
 - [ * ] Frontend Detail Page expect leave commit action 
